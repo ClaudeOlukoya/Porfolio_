@@ -1,6 +1,14 @@
 # Porfolio
 
-Bonjour ! Je m'appelle Claude et je suis analyste de données spécialisé en Python. Voici quelques projets sur lesquels j'ai travaillé lors de ma formation  chez OpenClassrooms :
+Bonjour ! Je m'appelle Claude et je suis analyste de données spécialisé en Python. J'ai acquis de solides bases en sciences de la vie et une passion pour l'utilisation des données afin de révéler des informations pertinentes. Je suis ravi de mettre mes compétences techniques et analytiques au service de la science des données en tant que spécialiste des données débutant.
+
+Au cours de mes études, j'ai perfectionné ma capacité à travailler avec des données complexes et développé un sens aigu de l'identification des tendances. J'ai également acquis de l'expérience en techniques de laboratoire, en gestion de données et en analyse statistique, ce qui, je le pense, sera un atout précieux dans mon rôle de spécialiste des données.
+
+Pendant mon temps libre, j'aime explorer de nouveaux outils et techniques d'analyse de données et je suis toujours à la recherche d'opportunités pour approfondir mes connaissances et mes compétences. Que je travaille en équipe ou en autonomie, je suis animé par le plaisir de découvrir de nouvelles perspectives et la satisfaction d'utiliser les données pour résoudre des problèmes complexes.
+
+
+Voici quelques projets sur lesquels j'ai travaillé lors de ma formation  
+chez OpenClassrooms :
 
 ## &#128295; Outils utilisés
 |                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
