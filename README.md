@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 
 Bonjour ! Je m'appelle Claude et je suis analyste de données spécialisé en Python. J'ai acquis de solides bases en sciences de la vie et une passion pour l'utilisation des données afin de révéler des informations pertinentes. Je suis ravi de mettre mes compétences techniques et analytiques au service de la science des données en tant que spécialiste des données débutant.
 
