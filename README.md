@@ -7,8 +7,7 @@ Au cours de mes études, j'ai perfectionné ma capacité à travailler avec des 
 Pendant mon temps libre, j'aime explorer de nouveaux outils et techniques d'analyse de données et je suis toujours à la recherche d'opportunités pour approfondir mes connaissances et mes compétences. Que je travaille en équipe ou en autonomie, je suis animé par le plaisir de découvrir de nouvelles perspectives et la satisfaction d'utiliser les données pour résoudre des problèmes complexes.
 
 
-Voici quelques projets sur lesquels j'ai travaillé lors de ma formation  
-chez OpenClassrooms :
+Voici quelques projets sur lesquels j'ai travaillé lors de ma formation chez OpenClassrooms :
 
 ## &#128295; Outils utilisés
 |                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
