@@ -1,6 +1,6 @@
 # Porfolio
 
-Voici quelques uns des projets réalisés lors de ma formation chez OpenClassrooms :
+Bonjour ! Je m'appelle Claude et je suis analyste de données spécialisé en Python. Voici quelques projets sur lesquels j'ai travaillé lors de ma formation  chez OpenClassrooms :
 
 ## &#128295; Outils utilisés
 |                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
